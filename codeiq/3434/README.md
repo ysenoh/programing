@@ -38,6 +38,6 @@ n = 2 の場合は、F(2) = 6であるのは自明。
 
 
 # コード
-[solve.py](/3434/solve.py)
+[solve.py](solve.py)
 
 
