@@ -11,4 +11,5 @@ heapqを使っているので、少し速い。
 Ford-Fulkerson法による、最大フローを求める関数。
 + [prime.py](prime.py)  
 素数を求める関数。
-
++ [gcd.py](gcd.py)
+最大公約数を求める関数
