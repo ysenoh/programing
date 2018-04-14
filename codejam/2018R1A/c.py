@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 #  --*-coding:utf-8-*--
 
+# 間違っている。
+
 
 import math
 
