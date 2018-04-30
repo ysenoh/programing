@@ -1,6 +1,8 @@
 #!/usr/bin/python3
 #  --*-coding:utf-8-*--
 
+# これは正答してない。
+
 def f(DAB):
     M = [x[0]+x[1] for x in DAB]
     N = [x[0]-x[2] for x in DAB]
