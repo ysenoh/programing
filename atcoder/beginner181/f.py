@@ -1,5 +1,5 @@
-def dsMakeSet(ds, x):
-    ds[x] = x
+
+# https://atcoder.jp/contests/abc181/tasks/abc181_f
 
 
 def dsFind(ds, x):
@@ -36,13 +36,10 @@ D =sorted([((XY[i][0] - XY[j][0])**2 + (XY[i][1] - XY[j][1])**2, i+2, j+2)
          
 ds = [i for i in range(N+2)]
 
-lastD = None
 for d in D:
     dsUnion(ds, d[1], d[2])
     if dsFind(ds, 0) == dsFind(ds, 1):
         break;
-
-    lastD = d[0]
 
 print('{:.9f}'.format(d[0]**.5/2))
 
