@@ -1,7 +1,7 @@
 # AtCoder Regular 107
 
 ## C - Shuffle Permutation
-問題文 https://github.com/ysenoh/programing/new/master/atcoder/regular107
+問題文 https://atcoder.jp/contests/arc107/tasks/arc107_c
 
 提出コード [c.py](c.py)
 
